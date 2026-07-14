@@ -6,6 +6,8 @@ An interactive Tableau dashboard comparing Tennessee's business-friendly standin
 
 ## Project overview
 
+![Dashboard preview](images/dashboard-preview.png)
+
 States frequently promote strong business climates through taxes, infrastructure, workforce development, and economic growth. Those strengths do not always translate into equally strong outcomes for the people who live there.
 
 This dashboard examines that tension by comparing business-friendly rankings with people-friendly or quality-of-life rankings. Tennessee serves as the primary case study, while the national map and state comparisons provide context.
@@ -59,20 +61,6 @@ tennessee-business-people-dashboard/
 │   └── cnbc_2026_business_rankings_verified_partial.csv
 └── images/
     └── dashboard-preview.png
-```
-
-## Add a dashboard preview
-
-Export or capture a clean image of the completed dashboard and save it as:
-
-```text
-images/dashboard-preview.png
-```
-
-Then add the following line below the dashboard link near the top of this README:
-
-```markdown
-![Dashboard preview](images/dashboard-preview.png)
 ```
 
 ## Author
